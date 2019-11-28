@@ -1,0 +1,2 @@
+rootProject.name='opencv-fast-ft2'
+include ':opencv-fast-ft2'

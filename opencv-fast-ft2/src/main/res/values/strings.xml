@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenCV FT2</string>
+    <string name="close">Close</string>
+    <string name="title_activity_main2">My Compose App</string>
+</resources>
