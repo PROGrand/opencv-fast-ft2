@@ -3,7 +3,7 @@ Using Freetype2 text rendering in OpenCV on Android
 
 Text rendering using Freetype2(+ Cache) directly, instead of (unsupported?) opencv-freetype module.
 Freetype2Impl renders text into cv::Mat of type CV_8UC4 (RGBA). Alpha channel guided by font.
-Example text wrapping and converting of cv:Mat to Android Bitmap is provided. Kotlin Coroutines are used intensively.
+Example of simple text wrapping and converting of cv:Mat to Android Bitmap is provided. Kotlin Coroutines are used intensively.
 For time sensitive tasks.
 
 ## Requirements:
