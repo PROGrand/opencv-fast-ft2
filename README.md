@@ -15,7 +15,7 @@ I use CMake, NDK 21, MinGW, Android Studio 4.0 Canary 4.
 
 ## Performance
 
-Screen rendering on Samsung Galaxy S7 - about 20 FPS. Same functionality achieved using opencv-freetype module performs is below 3 FPS.
+Screen rendering on Samsung Galaxy S7 - about 20 FPS. Same functionality achieved using opencv-freetype module is below 3 FPS.
 
 ## TODO
 * Move ft2 instance from static variable to java object field.
